@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
   <img alt="Arduino" src="https://www.makerzine.com.br/wp-content/uploads/2021/02/1024px-ArduinoLogo_%C2%AE.svg_.png" width = "50"/>
-  <img alt="https://res.cloudinary.com/practicaldev/image/fetch/s--LwMKhq29--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1crd9guwakabciqtt6e3.png"width = "50"/>
+  <img align="center" alt="node js" src="https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png" width = "50"/>
 </div>
 
   ##
