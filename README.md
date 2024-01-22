@@ -7,6 +7,7 @@
 - 🖥 Técnico em hardware 
 - 😄 Pronouns: ele/dele
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizynhoo&layout=compact&langs_count=6&theme=tokyonight"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizynhoo&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br>
