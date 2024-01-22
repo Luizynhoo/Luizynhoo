@@ -29,7 +29,5 @@
  
   ![](https://raw.githubusercontent.com/Luizynhoo/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg) 
   
-![Snake animation](https://github.com/Luizynhoo/Luizynhoo/blob/output/github-contribution-grid-snake.svg)
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff5252&height=120&section=footer"/>
