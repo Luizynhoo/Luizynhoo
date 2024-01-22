@@ -17,7 +17,7 @@
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
   <img align="center" alt="Arduino" src="https://www.makerzine.com.br/wp-content/uploads/2021/02/1024px-ArduinoLogo_%C2%AE.svg_.png" width = "50"/>
   <img align="center" alt="node js" src="https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png" width = "50"/>
-  <img align="center" alt="WordPress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img align="center" alt="WordPress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />     
 </div>
 
   ##
