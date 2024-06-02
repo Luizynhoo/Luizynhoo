@@ -18,6 +18,8 @@
   <img align="center" alt="node js" src="https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png" width = "40"/>
   <img align="center" alt="WordPress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"  width = "40" />    
   <img align="center" alt="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width = "40" />
+  <img align="center" alt="Bootstrap" src="https://img.icons8.com/color/2x/bootstrap.png" width="40" alt="Bootstrap">
+  
           
 </div>
 
