@@ -6,14 +6,14 @@
 
 <br>
 
-<details>
- <summary>Meus Status ⚡</summary>
+
+ Meus Status ⚡
  <div align="center">
    <a href="https://github.com/Luizynhoo">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizynhoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizynhoo&layout=compact&langs_count=6&theme=tokyonight"/>
  </div>
- </details>   
+ 
 <div style="display: inline_block" align="center"><br>
   <img align="center" src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="60" alt="JavaScript">
   <img align="center" alt="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"">
