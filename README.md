@@ -48,7 +48,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Luizynhoo/Luizynhoo/output/pacman-contribution-graph.svg">
 </picture>
 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0911b2&height=120&section=footer"/>
 
 ###
