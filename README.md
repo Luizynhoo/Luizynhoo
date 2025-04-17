@@ -32,8 +32,8 @@
 <h3 align=center>Featured Projects</h3>
 <div align="center">
   
-[![Badge do Projeto 1](https://img.shields.io/badge/SalesWebMVC-blue)](https://github.com/Luizynhoo/Lab-Solution_APP)
-[![Badge do Projeto 2](https://img.shields.io/badge/EstoqueR11-green)](https://github.com/Luizynhoo/Lab-Solution)
+[![Badge do Projeto 1](https://img.shields.io/badge/Lab_Solution-APP-blue)](https://github.com/Luizynhoo/Lab-Solution_APP)
+[![Badge do Projeto 2](https://img.shields.io/badge/Lab_Solution-WEB)](https://github.com/Luizynhoo/Lab-Solution)
 
   ## Minhas Redes Sociais
 
