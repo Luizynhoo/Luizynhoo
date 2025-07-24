@@ -35,6 +35,7 @@
 [![Badge do Projeto 1](https://img.shields.io/badge/Lab_Solution-APP-purple)](https://github.com/Luizynhoo/Lab-Solution_APP)
 [![Badge do Projeto 2](https://img.shields.io/badge/Lab_Solution-WEB-purple)](https://luizynhoo.github.io/Lab-Solution/)
 [![Badge do Projeto 2](https://img.shields.io/badge/SupportHub-blue)](https://github.com/Luizynhoo/SupportHub)
+[![Badge do Projeto 2](https://img.shields.io/badge/RCORP-blue)](https://github.com/Luizynhoo/RCORP)
 
   ## Minhas Redes Sociais
 
